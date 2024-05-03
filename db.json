@@ -96,20 +96,6 @@
       "logo": "https://i.ytimg.com/vi/-QvXNjYeKpU/maxresdefault.jpg"
     }
   ],
-  "deliveryCompany": [
-    {
-      "id": 1,
-      "name": "Entrega Fastpido"
-    },
-    {
-      "id": 2,
-      "name": "Fastugo"
-    },
-    {
-      "id": 3,
-      "name": "Entreganator"
-    }
-  ],
   "products": [
       {
         "id": "1",
